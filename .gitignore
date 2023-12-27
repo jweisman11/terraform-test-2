@@ -1,0 +1,7 @@
+*.hcl
+*.tfstate
+*.backup
+.DS_Store
+.terraform/
+secrets.json
+.zip
