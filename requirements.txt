@@ -1,0 +1,8 @@
+# inspo
+# https://github.com/encode/databases/blob/master/requirements.txt
+
+# lambda
+
+
+# testing
+package-name==version
