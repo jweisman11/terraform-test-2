@@ -1,0 +1,15 @@
+[run]
+source = my_project_directory  # Set to the root directory of your project
+omit =
+    */tests/*
+    */__init__.py
+    */venv/*
+    */.venv/*
+    */virtualenv/*
+    */site-packages/*
+    */migrations/*
+    */manage.py
+
+[report]
+fail_under = 80  # Set the desired coverage threshold
+show_missing = True
