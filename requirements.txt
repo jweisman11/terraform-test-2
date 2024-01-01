@@ -6,3 +6,5 @@
 
 # testing
 package-name==version
+coverage
+pytest-cov
